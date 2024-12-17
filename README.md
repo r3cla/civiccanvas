@@ -14,7 +14,7 @@ A CSS3/HTML5 responsive web template. Created so that users with basic HTML know
 - You're free to use this template for pretty much whatever you want. Refer to the [license](https://github.com/r3cla/civiccanvas/blob/main/LICENSE) for further details.
 
 <p>
-    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+    <a href="http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fciviccanvas.netlify.app%2Fassets%2Fcss%2Fstyle.css&usermedium=all">
         <img style="border:0;width:88px;height:31px"
             src="http://jigsaw.w3.org/css-validator/images/vcss"
             alt="Valid CSS!" />
