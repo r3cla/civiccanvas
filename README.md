@@ -1,2 +1,2 @@
 # civiccanvas
-A website template by Logie Web Services NZ
+A modest website template by Logie Web Services NZ
