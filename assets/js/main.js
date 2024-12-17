@@ -1,4 +1,5 @@
-/* assets/js/main.js */
+/* jshint esversion: 6 */
+
 document.addEventListener('DOMContentLoaded', function() {
     // Mobile menu functionality
     const mobileMenuBtn = document.querySelector('.mobile-menu-btn');
@@ -15,12 +16,12 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Close mobile menu when clicking outside
     document.addEventListener('click', (e) => {
-        if (mobileMenuBtn 
-            && navMenu 
-            && !mobileMenuBtn.contains(e.target) 
-            && !navMenu.contains(e.target)) {
+        if (mobileMenuBtn &&
+            navMenu &&
+            !mobileMenuBtn.contains(e.target) &&
+            !navMenu.contains(e.target)) {
             navMenu.classList.remove('active');
-        }
+        }        
     });
 
     // Smooth scroll for anchor links

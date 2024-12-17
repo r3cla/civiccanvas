@@ -1,0 +1,32 @@
+{
+  "name": "civiccanvas",
+  "version": "1.0.0",
+  "description": "A responsive web template",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Testing testing 123\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r3cla/civiccanvas.git"
+  },
+  "keywords": [
+    "keywords:",
+    "responsive",
+    "web-template",
+    "frontend",
+    "css",
+    "html",
+    "design",
+    "ui",
+    "template",
+    "civic",
+    "canvas"
+  ],
+  "author": "Logie Web Services NZ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/r3cla/civiccanvas/issues"
+  },
+  "homepage": "https://github.com/r3cla/civiccanvas#readme"
+}

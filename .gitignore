@@ -2,5 +2,6 @@
 /shelf/
 .idea/
 /workspace.xml
+LICENSE
 # Editor-based HTTP Client requests
 /httpRequests/
