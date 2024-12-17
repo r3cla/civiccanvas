@@ -1,5 +1,6 @@
 # Civic Canvas
-A CSS3/HTML5 responsive template. Made simply so users with foundational knowledge with HTML can edit it for their own purposes.
+A CSS3/HTML5 responsive template. Created so that users with basic HTML knowledge can easily adapt it for their own needs.
+
 
 [Live Demo](https://civiccanvas.netlify.app/)
 
