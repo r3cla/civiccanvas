@@ -10,4 +10,4 @@ A CSS3/HTML5 responsive template. Created so that users with basic HTML knowledg
 - **Photos used in template:**  
   *Source:* [Wikipedia - Pseudopanax](https://en.wikipedia.org/wiki/Pseudopanax) (Public domain, via Wikimedia Commons)  
 - **Framework:** None — just native HTML5, CSS3, and some JavaScript
-- Refer to [license](https://github.com/r3cla/civiccanvas/blob/main/LICENSE).
+- You're free to use this template for pretty much whatever you want. Refer to the [license](https://github.com/r3cla/civiccanvas/blob/main/LICENSE) for further details.
