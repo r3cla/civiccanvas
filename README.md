@@ -3,7 +3,7 @@ A CSS3/HTML5 responsive web template. Created so that users with basic HTML know
 
 ![alt text](https://github.com/r3cla/civiccanvas/blob/main/preview.png)
 
-- [Live Demo](https://civiccanvas.netlify.app/)
+- <a href="https://civiccanvas.netlify.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
 
 ## Credits
 
